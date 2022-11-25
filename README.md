@@ -15,4 +15,9 @@ Tidying up ...    @ 2022 Nov 18 17:34:51 IST (1668773091288)
 ... end of run
 root@swarm01:/apache-jmeter-5.5/extras#
 
+
+How to export Display.
+export DISPLAY=:0 # This to be tested.
+
+
 ```
